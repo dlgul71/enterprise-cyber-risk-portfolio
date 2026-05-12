@@ -1,12 +1,14 @@
 # Enterprise Cyber Risk & CAASM Portfolio
 
+![CAASM Banner](banner.png)
+
 **Author:** David L. Gulledge, CRISC, AWS-CSA, CEH, Security+
 
 ---
 
 ## Overview
 
-This portfolio demonstrates enterprise cybersecurity leadership across:
+Enterprise cybersecurity portfolio focused on:
 
 - CAASM / Axonius engineering and automation  
 - Governance, Risk & Compliance (GRC)  
