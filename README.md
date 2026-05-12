@@ -1,7 +1,6 @@
 # Enterprise Cyber Risk & CAASM Portfolio
 
-![CAASM Banner](dgs-sentinel-banner.png)
-
+![CAASM Banner](caasm-portfolio-banner.png)
 **Author:** David L. Gulledge, CRISC, AWS-CSA, CEH, Security+
 
 ---
